@@ -58,3 +58,7 @@ yarn add react-route-dom & r@reduxjs/toolkit
 -> Updaed axios for localhost and production
 -> Voila, It's worked!
 
+# Access Booking Portal
+Booking Frontend: https://booking-frontend-mu.vercel.app/
+Booking Backend: https://booking-backend-ot7m.onrender.com
+
