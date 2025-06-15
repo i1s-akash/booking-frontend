@@ -47,3 +47,10 @@ yarn add react-route-dom & r@reduxjs/toolkit
 
 # No CRA used but Scratch to booking-frontend.
 
+
+# Hosting `booking-frontend` at Vercel
+-> Got Live Web Service URL by hosting booking-backend at Render: https://booking-backend-ot7m.onrender.com
+-> Shifted code to Github
+-> Hosted on Vercel
+-> 
+

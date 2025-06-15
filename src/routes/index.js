@@ -4,7 +4,7 @@ import Home from "../pages/home";
 import Slots from "../pages/user/slots";
 import Confirmation from "../pages/user/confirmation";
 
-export const Routes = () => {
+export const AppRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
