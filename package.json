@@ -1,0 +1,40 @@
+{
+  "name": "booking-frontend",
+  "version": "1.0.0",
+  "description": "\"Booking Frontend\"",
+  "scripts": {
+    "dev": "parcel public/index.html --port ${FRONTEND_PORT:-3001}",
+    "build": "rm -rf .parcel-cache dist && parcel build public/index.html"
+  },
+  "keywords": [
+    "No CRA",
+    "Booking Frontend",
+    "Scrach to Booking Frontend",
+    "Scrach to React"
+  ],
+  "author": "Akash Prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.3",
+    "@mui/material": "^5.15.3",
+    "@reduxjs/toolkit": "^2.0.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.5.0",
+    "moment": "^2.30.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.21.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.3",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "buffer": "^6.0.3",
+    "parcel": "^2.10.3",
+    "process": "^0.11.10",
+    "redux-logger": "^3.0.6"
+  }
+}

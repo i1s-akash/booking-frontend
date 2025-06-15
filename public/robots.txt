@@ -1,0 +1,7 @@
+# Allow all search engines to index everything
+# User-agent with *, means to apply for all search engines
+User-agent: *
+Allow: /
+
+# Disallow crawling of the Terms and Conditions page
+Disallow: /TermsAndConditions
