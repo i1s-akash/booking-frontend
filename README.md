@@ -52,5 +52,9 @@ yarn add react-route-dom & r@reduxjs/toolkit
 -> Got Live Web Service URL by hosting booking-backend at Render: https://booking-backend-ot7m.onrender.com
 -> Shifted code to Github
 -> Hosted on Vercel
--> 
+-> Got Live URL for frontend
+-> Configured cors to backend to allow api request
+-> Updated .env at Render.
+-> Updaed axios for localhost and production
+-> Voila, It's worked!
 
